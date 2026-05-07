@@ -1,0 +1,31 @@
+course_code,title,department,level,credits,description,prerequisites,terms_offered,instructor,is_thesis,is_project
+SERG 5101,Foundations of Software Engineering,SERG,5101,0.5,Core principles of software engineering practice including requirements modeling design and verification.,Permission of the department,"{fall}",,false,false
+SERG 5102,Software Design,SERG,5102,0.5,Advanced design techniques for large-scale software systems including architectural patterns and design tradeoffs.,SERG 5101,"{winter}",,false,false
+SERG 5103,Software Quality Engineering,SERG,5103,0.5,Verification validation testing strategies and quality assurance for production software.,SERG 5101,"{winter,fall}",,false,false
+SERG 5104,Software Engineering Project Management,SERG,5104,0.5,Project planning estimation risk management and lifecycle models for engineering organizations.,,"{fall}",,false,false
+SERG 5301,Directed Studies in Software Engineering,SERG,5301,0.5,Independent study under supervision of a faculty member.,Permission of the department,"{fall,winter,summer}",,false,false
+SERG 5908,MEng Project,SERG,5908,2.5,Capstone engineering project applying software engineering practice to a substantive problem.,Completion of core courses,"{fall,winter,summer}",,false,true
+COMP 5900,Selected Topics in Computer Science,COMP,5900,0.5,Topics vary by term and instructor — recent offerings include LLMs and agentic AI systems.,,"{fall,winter}",,false,false
+COMP 5409,Database Management Systems,COMP,5409,0.5,Relational model query optimization transaction processing and modern database architectures.,,"{fall}",,false,false
+COMP 5408,Algorithms,COMP,5408,0.5,Advanced algorithm design and analysis including graph algorithms approximation and randomized algorithms.,Undergraduate algorithms course,"{winter}",,false,false
+COMP 5703,Data Mining,COMP,5703,0.5,Techniques for discovering patterns in large datasets including classification clustering and association rules.,,"{winter}",,false,false
+COMP 5704,Parallel Algorithms and Applications,COMP,5704,0.5,Parallel algorithm design and implementation on modern multicore and distributed architectures.,COMP 5408,"{fall}",,false,false
+COMP 5900T,Topics: Natural Language Processing,COMP,5900,0.5,Statistical and neural approaches to NLP including transformers and large language models.,,"{winter}",,false,false
+COMP 5900W,Topics: Machine Learning,COMP,5900,0.5,Supervised and unsupervised learning including deep learning architectures and training methods.,,"{fall}",,false,false
+COMP 5900X,Topics: Distributed Systems,COMP,5900,0.5,Consistency consensus replication and the design of large-scale distributed systems.,,"{fall}",,false,false
+SYSC 5103,Software Agents,SYSC,5103,0.5,Architectures and applications of intelligent software agents including multi-agent coordination.,,"{winter}",,false,false
+SYSC 5709,Advanced Topics in Software Engineering,SYSC,5709,0.5,Topics vary — recent offerings include cloud-native architectures and observability.,,"{fall,winter}",,false,false
+SYSC 5807,Advanced Topics in Computer Communications,SYSC,5807,0.5,Network protocols modern transport layers and emerging communication paradigms.,Undergraduate networks course,"{winter}",,false,false
+SYSC 5408,Biomedical Signals and Image Processing,SYSC,5408,0.5,Signal processing techniques applied to physiological signals and medical imaging.,,"{fall}",,false,false
+SYSC 5306,Mobile Computing Systems,SYSC,5306,0.5,Architectures and protocols for mobile and wireless computing systems.,,"{winter}",,false,false
+SYSC 5403,Computer Communications,SYSC,5403,0.5,Network architectures protocols and performance evaluation.,,"{fall}",,false,false
+ELEC 5409,Communication Networks,ELEC,5409,0.5,Performance analysis of computer and communication networks.,,"{fall}",,false,false
+ELEC 5503,Radio Frequency Microelectronics,ELEC,5503,0.5,Design of integrated circuits for radio-frequency applications.,Undergraduate analog circuits,"{winter}",,false,false
+SYSC 5709A,Topics: Cloud Computing,SYSC,5709,0.5,Cloud service models container orchestration and serverless architectures.,,"{fall}",,false,false
+SYSC 5709B,Topics: DevOps and Site Reliability Engineering,SYSC,5709,0.5,CI/CD observability incident response and the operational discipline of running production systems.,,"{winter}",,false,false
+SYSC 5709C,Topics: Applied Machine Learning,SYSC,5709,0.5,Practical ML pipelines feature engineering model deployment and MLOps.,,"{fall,winter}",,false,false
+COMP 5900Z,Topics: Information Retrieval,COMP,5900,0.5,Search systems ranking embeddings and modern retrieval-augmented generation.,,"{winter}",,false,false
+SERG 5500,Software Engineering Internship,SERG,5500,0,Co-op work term in industry — pass/fail credit.,Enrollment in MEng SEP co-op program,"{fall,winter,summer}",,false,false
+SERG 5501,Software Engineering Internship II,SERG,5501,0,Second co-op work term in industry — pass/fail credit.,SERG 5500,"{fall,winter,summer}",,false,false
+COMP 5800,Master's Thesis,COMP,5800,5,Independent research thesis — full year.,Permission of the department,"{fall,winter,summer}",,true,false
+SYSC 5800,Master's Thesis,SYSC,5800,5,Independent research thesis — full year.,Permission of the department,"{fall,winter,summer}",,true,false
