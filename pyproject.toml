@@ -16,6 +16,7 @@ dependencies = [
     "fastapi>=0.115",
     "uvicorn[standard]>=0.32",
     "pydantic>=2.9",
+    "sqlparse>=0.5",
 ]
 
 [project.optional-dependencies]
